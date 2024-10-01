@@ -11,6 +11,9 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        "just-purple": "#A78BFA", // Custom purple shade
+        "just-blue": "#93C5FD", // Custom blue shade
+        "just-green": "#86EFAC", // Custom green shade
       },
     },
   },
